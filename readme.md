@@ -24,3 +24,7 @@
 1. вываы
 2. ываыва
 3. ываыва
+
+
+[Мой сайт](gredi.narod.ru)
+![фото](http://gredi.narod.ru/pic/bannerabout.gif)
