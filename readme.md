@@ -28,3 +28,10 @@
 
 [Мой сайт](http://gredi.narod.ru)
 ![фото](http://gredi.narod.ru/pic/bannerabout.gif)
+
+```python
+asdf='asdf'
+
+def asdf():
+    print('d')
+```
