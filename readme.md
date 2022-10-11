@@ -23,12 +23,12 @@
 def asdf():
     print('d')
     
-    return 0
+    return 'dd'
 
 asdf2='asdf'
 
 as2 = asdf()
 
-print(as2)
+print(''+as2+asdf2)
 
 ```
